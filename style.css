@@ -1,0 +1,148 @@
+.profile{
+    height: 300px;
+    width: 400px;
+    /* display: flex; */
+    border: solid;
+
+}
+
+.smaller_icon{
+    width: 15px;
+    height: auto;
+}
+
+.profile_icon{
+    width: 80px;
+    height: auto;
+}
+
+.remove_margin{
+    margin: 0;
+}
+
+.blue_back{
+    background-color: aqua;
+    width: auto;
+    height: 80px;
+    display: flex;
+}
+
+/* .white_backd{
+    background-color: wheat;
+    width: auto;
+    height: 300px;
+} */
+
+.profile_position{
+    width: auto;
+    height: auto;
+    padding-left: 10px;
+    /* margin: 20px; */
+}
+/* 
+/* .center_page{
+    margin-top: 20px;
+    /* width: 1000px; */
+    /* height: 900px; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    
+
+
+.sign_out{
+    background-color: aqua;
+    /* color: white; */
+    width: auto;
+    height: 20px;
+}
+
+.banner{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.structure{
+    width: 25px;
+    height: auto;
+}
+
+.header_color{
+    background-color: grey;
+    height: 35px;
+    color: white;
+    align-items: center;
+    vertical-align: middle;
+    /* justify-content: center; */
+    /* padding-top: 15px; */
+    /* display: flex; */
+    /* display: inline; */
+
+}
+
+.connection_R{
+    width: 170px;
+    height: 120px;
+    border: solid;
+    /* justify-content: space-between; */
+    /* align-self: center; */
+    font-size: larger;
+}
+
+.request_padding{
+    /* display: flex; */
+    padding: 10px;
+    margin: 0;
+}
+
+.left_structure_page{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    padding: 15px 100px;
+    margin: 10px 50px;
+}
+
+.education{
+    width: 400px;
+    height: auto;
+    border: solid;
+    margin-top: 50px;
+
+}
+
+.text_size{
+    font-size: larger;
+}
+
+.Your_connection_box{
+    width: auto;
+    height: auto;
+    border: solid;
+    /* justify-content: space-between; */
+    /* align-self: center; */
+    font-size: larger;
+    margin-top: 50px;
+}
+
+.Right_side_structure{
+    margin: 10px 50px;
+    padding: 15px 100px;
+
+}
+
+.page_layout{
+    display: flex;
+    justify-content: center;
+}
+
+.view_more{
+    width: 170px;
+    height: auto;     
+    border: solid;
+    font-size: larger;
+    margin: 0;
+}
